@@ -12,3 +12,5 @@ for i in b:
 
 print("After adding Variable b to A")
 print(a)
+
+#Added Extra Line to Check GitBash
